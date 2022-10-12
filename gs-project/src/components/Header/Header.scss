@@ -1,0 +1,13 @@
+@import "../../Scss/variables";
+
+.header {
+  background-color: $turuncu;
+  display: flex;
+  justify-content: space-between;
+  a {
+    text-decoration: none;
+    color: $siyah;
+    font-size: 1rem;
+    padding: 0.5rem;
+  }
+}
